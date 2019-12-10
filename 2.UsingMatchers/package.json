@@ -1,0 +1,17 @@
+{
+  "name": "2.usingmatchers",
+  "version": "1.0.0",
+  "description": "最简单的测试值的方法是看是否精确匹配。",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "junchao",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
